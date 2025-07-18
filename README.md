@@ -7,8 +7,8 @@ Building a practical lab that simulates how attackers abuse the Microsoft 365 Di
 ### Impacts ✨
 * Demonstrates understanding of real-world phishing TTPs
 
-Highlights your ability to simulate, detect, and document threats
+* Highlights your ability to simulate, detect, and document threats
 
-Aligns with Arctic Wolf’s recent research — boosting visibility
+* Aligns with Arctic Wolf’s recent research — boosting visibility
 
   
